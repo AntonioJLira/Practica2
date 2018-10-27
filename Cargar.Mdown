@@ -1,0 +1,10 @@
+## (ANVERSO)
+
+**ID**:004 **Cargar**
+
+Como usuario quiero poder cargar una base de datos o crear una nueva
+
+
+## (REVERSO)
+
+* Si deseo crear una base de datos o cargar una , se me deberá preguntar al inciar el sistema software.
