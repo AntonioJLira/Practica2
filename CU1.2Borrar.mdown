@@ -1,0 +1,26 @@
+## Borrar
+**ID**:003
+
+**Breve descripción:** El sistema permitirá eliminar un elemento de la base de datos
+
+**Actores principales:** Usuario
+
+**Actores secundarios:** Base de datos
+
+**Precondiciones:**
+
+1. Deberá haber sido creada o cargada dentro del sistema y contener al menos un elemento
+
+2. Se habrá tenido que realizar una búsqueda del elemento a borrar mediante la dicha función
+
+**Flujo Principal:**
+
+1. El caso de uso empieza cuando el usuario quiera eliminar un elemento
+2. El sistema habra eliminado el elemento en la base de datos
+**Postcondiciones:**
+
+* Se mostrara un mensaje por pantalla donde se le dirá al usuario que el elemento ha sido eliminado correctamente
+
+**Flujos alternativos:**
+
+1.a En caso de haber dos personas con el mismo apellido se seleccionara cual es la indicada a borrar
