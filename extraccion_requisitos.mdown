@@ -2,8 +2,8 @@
 
 ## Requisitos no funcionales
 
-`*Indican como debería ser el sistema. Restricciones que afectan al
-sistema.*`
+*`Indican como debería ser el sistema. Restricciones que afectan al
+sistema.`*
 
 1. Los datos que guardará el sistema son:
 	* Nombre
