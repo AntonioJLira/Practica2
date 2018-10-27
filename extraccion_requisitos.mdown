@@ -2,20 +2,34 @@
 
 ## Requisitos no funcionales
 
-`El sistema software deberá almacenar en una base de datos todos los alumnos que estan matriculados en la asignatura.`
+`*Indican como debería ser el sistema. Restricciones que afectan al
+sistema.*`
 
-`El número máximo de alumnos es de 150.`
+1. Los datos que guardará el sistema son:
+	* Nombre
+	* Apellidos
+	* DNI (sin letra)
+	* Teléfono
+	* Email UCO
+	* Dirección Postal
+	* Curso más alto cursado
+	* Número de grupo
+	* Líder
 
-`La base de datos se visualizara por linea de comandos y se pedirá si se desea visualizar por HTML o por Markdown.`
+2. El sistema software deberá almacenar en una base de datos todos los alumnos que estan matriculados en la asignatura.
 
-`La interfaz será la linea de comandos, aunque también se podrá crear una interfaz gráfica.`
+3. El número máximo de alumnos es de 150.
 
-`Los alumnos se guardarán en un fichero binario.`
+4. La base de datos se visualizara por linea de comandos y se pedirá si se desea visualizar por HTML o por Markdown.
 
-`El sistema operativo será Linux.`
+5. La interfaz será la linea de comandos, aunque también se podrá crear una interfaz gráfica.
 
-`A la base de datos solo podrá acceder el profesor.`
+6. Los alumnos se guardarán en un fichero binario.
 
-`El lenguaje de documentación ser Markdown.`
+7. El sistema operativo será Linux.
+
+8. A la base de datos solo podrá acceder el profesor.
+
+9. El lenguaje de documentación ser Markdown.
 
 ## Requisitos funcionales
