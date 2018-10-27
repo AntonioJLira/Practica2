@@ -1,0 +1,25 @@
+## Añadir
+**ID**:006
+
+**Breve descripción:** El sistema permitirá la agregación de un nuevo elemento a la base de datos.
+
+**Actores principales:** Usuario
+
+**Actores secundarios:** Base de datos
+**Precondiciones:**
+
+1. Tener toda la información del alumno
+
+**Flujo Principal:**
+
+1. El usuario solicita la agregación de un nuevo alumno
+2. El usuario rellena todos los campos necesarios para ello
+3. El nuevo alumno ha sido añadido
+
+**Postcondiciones:**
+
+* Se mostrara un mensaje por pantalla diciendo que el nuevo alumno ha sido añadido correctamente
+
+**Flujos alternativos:**
+
+2.a En caso de que exista el alumno dentro de la base de datos (Se comparara el DNI) se abortara la acción
