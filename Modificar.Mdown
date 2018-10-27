@@ -2,7 +2,7 @@
 
 **ID**:005 **Modificar**
 
-Como usuario quiero poder modificar a cualquier elemento de la base de datos
+Como usuario quiero poder modificar cualquier elemento de la base de datos
 
 
 ## (REVERSO)
