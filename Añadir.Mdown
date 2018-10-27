@@ -1,0 +1,14 @@
+## (ANVERSO)
+
+**ID**:006 **Añadir**
+
+Como usuario quiero poder añadir un elemento a la base de datos
+
+
+## (REVERSO)
+
+* Quiero que sean necesario todos los datos del alumno excepto si pertenece a algun grupo o si es lider de alguno
+
+* Quiero que se compruebe si el alumno que se quiere añadir ya pertenece a la base de datos y para ello se comprobara el **DNI**
+
+* Si el elemento se añade, pertenece a un grupo y es lider, se comprobara si dentro de ese grupo ya existe un lider
