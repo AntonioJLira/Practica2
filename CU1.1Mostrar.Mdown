@@ -1,6 +1,6 @@
 ## Mostrar
 
-**ID**:001
+**ID**:002
 
 **Breve descripción:** El sistema mostrará un alumno por terminal
 
