@@ -1,6 +1,6 @@
-#Requisitos
+# Requisitos
 
-##Requisitos no funcionales
+## Requisitos no funcionales
 
 `El sistema software deberá almacenar en una base de datos todos los alumnos que estan matriculados en la asignatura.`
 
@@ -18,4 +18,4 @@
 
 `El lenguaje de documentación ser Markdown.`
 
-##Requisitos funcionales
+## Requisitos funcionales
