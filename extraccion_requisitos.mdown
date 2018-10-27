@@ -43,18 +43,18 @@ comportamiento del mismo en determinadas situaciones.`
 
 1. *Búsqueda*
 
-`El usuario tiene que poder buscar cualquier alumno que desee dentro de la base de datos.`
+` El usuario tiene que poder buscar cualquier alumno que desee dentro de la base de datos. `
 
-	* Para la búsqueda se usará el DNI o los apellidos (se comprobará que el alumno existe) y se transmitirá la información a las demás funciones.
+* Para la búsqueda se usará el DNI o los apellidos (se comprobará que el alumno existe) y se transmitirá la información a las demás funciones.
 
-		1.1 *Mostrar*
+1.1 *Mostrar*
 
-		`El usuario tiene poder buscar cualquier alumno que desee, todos los alumnos, o un grupo específico dentro de la base de datos.`
+`El usuario tiene poder buscar cualquier alumno que desee, todos los alumnos, o un grupo específico dentro de la base de datos.`
 
-			* Al seleccionar la opción de nombrar se debe especificar si se desea mosotrar todo o si se desea mostrar uno en específico. 
+* Al seleccionar la opción de nombrar se debe especificar si se desea mosotrar todo o si se desea mostrar uno en específico. 
 
-			* Si se desean mostrar todos se deben de mostrar ordenados o por nombre, o apellidos (alfabeticamente), o por DNI, o por curso más alto matriculado de mayor a menor (descendente o ascendente). 
+* Si se desean mostrar todos se deben de mostrar ordenados o por nombre, o apellidos (alfabeticamente), o por DNI, o por curso más alto matriculado de mayor a menor (descendente o ascendente). 
 
-			* Si se desea mostrar uno solo se debe mostrar al introducir DNI o apellidos (en caso de tener los mismos apellidos, mostrar todos los que coincidan). En caso de que uno sea líder, este debe de estar resaltado.
+* Si se desea mostrar uno solo se debe mostrar al introducir DNI o apellidos (en caso de tener los mismos apellidos, mostrar todos los que coincidan). En caso de que uno sea líder, este debe de estar resaltado.
 
-			* Si se desea mostrar por grupo se debe introducir el numero del grupo y se mostrarán todos los alumnos que pertenezcan a ese grupo.
+* Si se desea mostrar por grupo se debe introducir el numero del grupo y se mostrarán todos los alumnos que pertenezcan a ese grupo.
