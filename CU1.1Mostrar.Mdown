@@ -1,0 +1,28 @@
+## Mostrar
+
+**ID**:001
+
+**Breve descripción:** El sistema mostrará un alumno por terminal
+
+**Actores principales:** Usuario
+
+**Actores secundarios:** Alumno
+
+**Precondiciones:**
+
+1. El alumno deberá estar incluido dentro de la base de datos
+
+
+**Flujo Principal:**
+
+1. EL caso de uso empieza cuando el sistema necesite mostrar a un alumno
+
+2. El sistema mostrar todos los datos del alumno
+
+**Postcondiciones:**
+
+* El sistema software muestra al alumno por la terminal
+
+**Flujos alternativos:**
+
+2.a Si no existe el Alumno, se deberá mostrar un mensaje de error.
