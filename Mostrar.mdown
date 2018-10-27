@@ -1,0 +1,18 @@
+## (ANVERSO)
+
+**ID**:002 **Mostrar**
+
+Como usuario quiero poder buscar cualquier alumno que deseel, todos los alumnos o un grupo especifico dentro de la base de datos.
+
+
+## (REVERSO)
+
+* Quiero poder seleccionar si deseo mostrar toda la base de datos , solo un alumno específico o a un grupo de trabajo.
+
+* Te permitirá buscar por DNI o Apellidos o en caso de grupo por el numero de grupo
+
+* Al seleccionar la opción de todos los alumnos deberá dejarme ordenarlos por **Nombre y Apellido** o **DNI** o **Curso mas alto cursado** de mayor a menor y de forma ascendente y descendente.
+
+* Al seleccionar la opción de un alumno especifico en caso de existir dos personas con el mismo apellido mostrar las dos y si una persona es lider del grupo que salga resaltada.
+
+* Al seleccionar Mostrar un grupo se debe introducir el numero del grupo y se mostraran todas las personas pertenecientes a ese grupo
