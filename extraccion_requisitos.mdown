@@ -87,6 +87,6 @@ comportamiento del mismo en determinadas situaciones.`
 
 3 *Añadir*
 
-`El usuario tiene poder modificar cualquier elemento de la base de datos.`
+`El usuario tiene poder añadir un elemento a la base de datos.`
 
 * Para realizar la modificación del elemento primero quiero buscarlo y posteriormente modificarlo
