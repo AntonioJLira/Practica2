@@ -17,7 +17,7 @@
 
 1. EL caso de uso empieza cuando el sistema necesite mostrar a un alumno
 
-2. El sistema mostrar todos los datos del alumno
+2. El sistema muestra todos los datos del alumno
 
 **Postcondiciones:**
 
