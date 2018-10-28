@@ -1,0 +1,95 @@
+# Requisitos
+
+## Requisitos no funcionales
+
+`Indican como debería ser el sistema. Restricciones que afectan al
+sistema.`
+
+1. Los datos que guardará el sistema son:
+	* Nombre
+	* Apellidos
+	* DNI (sin letra)
+	* Teléfono
+	* Email UCO
+	* Dirección Postal
+	* Curso más alto cursado
+	* Número de grupo
+	* Líder
+
+2. El sistema software deberá almacenar en una base de datos todos los alumnos que estan matriculados en la asignatura.
+
+3. El número máximo de alumnos es de 150.
+
+4. La base de datos se visualizara por linea de comandos y se pedirá si se desea visualizar por HTML o por Markdown.
+
+5. La interfaz será la linea de comandos, aunque también se podrá crear una interfaz gráfica.
+
+6. Los alumnos se guardarán en un fichero binario.
+
+7. El sistema operativo será Linux.
+
+8. A la base de datos solo podrá acceder el profesor.
+
+9. El lenguaje de documentación ser Markdown.
+
+
+
+## Requisitos funcionales
+
+`Expresa lo que debería hacer el sistema. Las funcionalidades que
+este debe proporcionar y especifican la manera en que el sistema
+debe reaccionar antes determinadas entradas y/o el
+comportamiento del mismo en determinadas situaciones.`
+
+1. *Búsqueda*
+
+` El usuario tiene que poder buscar cualquier alumno que desee dentro de la base de datos. `
+
+* Para la búsqueda se usará el DNI o los apellidos (se comprobará que el alumno existe) y se transmitirá la información a las demás funciones.
+
+1.1 *Mostrar*
+
+`El usuario tiene poder buscar cualquier alumno que desee, todos los alumnos, o un grupo específico dentro de la base de datos.`
+
+* Al seleccionar la opción de nombrar se debe especificar si se desea mosotrar todo o si se desea mostrar uno en específico. 
+
+* Si se desean mostrar todos se deben de mostrar ordenados o por nombre, o apellidos (alfabeticamente), o por DNI, o por curso más alto matriculado de mayor a menor (descendente o ascendente). 
+
+* Si se desea mostrar uno solo se debe mostrar al introducir DNI o apellidos (en caso de tener los mismos apellidos, mostrar todos los que coincidan). En caso de que uno sea líder, este debe de estar resaltado.
+
+* Si se desea mostrar por grupo se debe introducir el numero del grupo y se mostrarán todos los alumnos que pertenezcan a ese grupo.
+
+
+1.2. *Borrar*
+
+`Como usuario quiero poder borrar a uno o varios elementos dentro de la base de datos.`
+
+* Se borrará un elemento mediante una búsqueda por DNI o apellidos.
+
+* En caso de de que existan dos personas con el mismo apellido preguntar cual es el que se desea eliminar.
+
+
+1.3 *Modificar*
+
+`El usuario tiene poder modificar cualquier elemento de la base de datos.`
+
+* Para realizar la modificación del elemento primero quiero buscarlo y posteriormente modificarlo.
+
+
+
+2 *Cargar*
+
+`El usuario tiene poder cargar una base de datos o crear una nueva.`
+
+* Si se desea crear una base de datos o cargar una , se me deberá preguntar al inciar el sistema software.
+
+
+
+3 *Añadir*
+
+`El usuario tiene poder añadir un elemento a la base de datos.`
+
+* Se tiene que comprobar si al alumno que se quiere añadir ya pertenece a la base de datos y para ello se comprobara el DNI.
+
+* Si el elemento que se añade, pertenece a un grupo y es lider, se comprobará si dentro de ese grupo ya existe un lider.
+
