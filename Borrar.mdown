@@ -1,0 +1,12 @@
+## (ANVERSO)
+
+**ID**:003 **Borrar**
+
+Como usuario quiero poder borrar a uno o varios elementos dentro de la base de datos
+
+
+## (REVERSO)
+
+* Se borrará un elemento mediante una búsqueda por **DNI** o **Apellidos**
+
+* En caso de que existan dos personas con el mismo apellido preguntar cual es el que se desea eliminar

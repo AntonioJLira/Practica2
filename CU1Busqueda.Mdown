@@ -1,0 +1,29 @@
+## Búsqueda
+**ID**:001
+
+**Breve descripción:** El sistema permitirá buscar un elemento de la base de datos
+
+**Actores principales:** Usuario
+
+**Actores secundarios:** Base de datos
+**Precondiciones:**
+
+1. Deberá haber sido creada o cargada dentro del sistema
+
+
+**Flujo Principal:**
+
+1. El caso de uso empieza cuando el usuario desee realizar una búsqueda
+2. El sistema enviara la información a una de las funciones que las necesite
+
+**Postcondiciones:**
+
+* Los resultados serán usados por una de las funciones
+
+**Flujos alternativos:**
+
+2.a En caso de querer mostrar un alumno esta información sera proporcionada a la función de mostrar
+
+2.b En caso de querer eliminar a un alumno la información sera pasada a la función de borrar
+
+2.c En caso de querer modificar un alumno la información sera pasada a la función de modificar

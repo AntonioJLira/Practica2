@@ -1,0 +1,26 @@
+## Modificar
+
+**ID**:005
+
+**Breve descripción:** El sistema permitirá que se modifiquen los datos de un elemento de la base de datos
+
+**Actores principales:** Usuario
+
+**Actores secundarios:** Alumno
+**Precondiciones:**
+
+1. Se deberá haber realizado una búsqueda dentro del sistema
+
+2. El elemento a modificar exista dentro de la base de datos
+
+**Flujo Principal:**
+
+1. El Usuario solicita la modificación de un alumno
+2. El usuario elegirá el alumno que desea modificar.
+
+**Postcondiciones:**
+
+* Se mostrara un mensaje por pantalla diciendo que el alumno ha sido modificado correctamente
+
+
+**Flujos alternativos:**
