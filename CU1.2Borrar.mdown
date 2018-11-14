@@ -17,6 +17,7 @@
 
 1. El caso de uso empieza cuando el usuario quiera eliminar un elemento
 2. El sistema habra eliminado el elemento en la base de datos
+
 **Postcondiciones:**
 
 * Se mostrara un mensaje por pantalla donde se le dirá al usuario que el elemento ha sido eliminado correctamente
