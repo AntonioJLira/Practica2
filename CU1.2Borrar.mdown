@@ -20,7 +20,7 @@
 
 **Postcondiciones:**
 
-* Se mostrara un mensaje por pantalla donde se le dirá al usuario que el elemento ha sido eliminado correctamente
+* El número de usuarios será el número de usuarios anteriores menos uno
 
 **Flujos alternativos:**
 
