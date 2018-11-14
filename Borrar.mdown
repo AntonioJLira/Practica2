@@ -2,6 +2,8 @@
 
 **ID**:003 **Borrar**
 
+**Prioridad** : 2
+
 Como usuario quiero poder borrar a uno o varios elementos dentro de la base de datos
 
 
