@@ -9,4 +9,6 @@ Como usuario quiero poder buscar cualquier alumno que desee dentro de la base de
 
 * Quiero poder realizar la busqueda mediante el **DNI** o los **Apellidos**
 
+* Quiero como profesor buscar mediante el número de grupo
+
 * Quiero que se realice una comprobación de que el alumno existe dentro de la base de datos
