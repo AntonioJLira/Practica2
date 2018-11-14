@@ -18,7 +18,7 @@
 
 **Postcondiciones:**
 
-* Se mostrara un mensaje por pantalla diciendo que la base de datos ha sido cargada/creada con éxito
+* Los campos de la base de datos han sido cargados
 
 
 **Flujos alternativos:**
