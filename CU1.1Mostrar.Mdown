@@ -21,7 +21,7 @@
 
 **Postcondiciones:**
 
-* El sistema software muestra al alumno por la terminal
+* La función mostrará los alumnos por terminal
 
 **Flujos alternativos:**
 
