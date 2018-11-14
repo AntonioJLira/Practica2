@@ -22,6 +22,8 @@
 
 * El número de usuarios será el número de usuarios anteriores menos uno
 
+* Si se ha borrado un alumno líder se deberá nombrar otro en el grupo
+
 **Flujos alternativos:**
 
 1.a En caso de haber dos personas con el mismo apellido se seleccionara cual es la indicada a borrar
