@@ -6,6 +6,7 @@
 **Actores principales:** Usuario
 
 **Actores secundarios:** Base de datos
+
 **Precondiciones:**
 
 1. Deberá haber sido creada o cargada dentro del sistema
