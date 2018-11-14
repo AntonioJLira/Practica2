@@ -2,6 +2,8 @@
 
 **ID**:004 **Cargar**
 
+**Prioridad** : 2
+
 Como usuario quiero poder cargar una base de datos o crear una nueva
 
 
