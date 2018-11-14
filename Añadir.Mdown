@@ -1,6 +1,8 @@
 ## (ANVERSO)
 
-**ID**:006 **Añadir**
+**ID**:006  **Añadir**
+
+**Prioridad**: 1
 
 Como usuario quiero poder añadir un elemento a la base de datos
 
