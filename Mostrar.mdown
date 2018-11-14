@@ -2,6 +2,8 @@
 
 **ID**:002 **Mostrar**
 
+**Prioridad** : 2
+
 Como usuario quiero poder buscar cualquier alumno que desee, todos los alumnos o un grupo específico dentro de la base de datos.
 
 
