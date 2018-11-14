@@ -19,7 +19,7 @@
 
 **Postcondiciones:**
 
-* Se mostrara un mensaje por pantalla diciendo que el nuevo alumno ha sido añadido correctamente
+* El número de alumnos sera igual al número de alumnos anteriores mas uno
 
 **Flujos alternativos:**
 
