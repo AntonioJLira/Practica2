@@ -1,0 +1,24 @@
+## Búsqueda por grupo
+**ID**:007
+
+**Breve descripción:** El sistema permitirá buscar un elemento mediante el número de grupo
+
+**Actores principales:** Usuario
+
+**Actores secundarios:** Base de datos
+
+**Precondiciones:**
+
+1. Deberá haber sido creada o cargada dentro del sistema
+
+2. Deberá existir el grupo
+
+
+**Flujo Principal:**
+
+1. El caso de uso empieza cuando el usuario desee realizar una búsqueda
+2. El sistema enviara la información a una de las funciones que las necesite
+
+**Postcondiciones:**
+
+* La función deberá devolver los grupos que cumplan las características de la búsqueda
