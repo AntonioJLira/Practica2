@@ -19,7 +19,7 @@
 
 **Postcondiciones:**
 
-* Los resultados serán usados por una de las funciones
+* La función debe devolver los alumnos que cumplan las carecterísticas de la búsqueda
 
 **Flujos alternativos:**
 
