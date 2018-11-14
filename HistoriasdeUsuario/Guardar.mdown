@@ -1,0 +1,14 @@
+## (ANVERSO)
+
+**ID**:008 **Guardar**
+
+**Prioridad** : 1
+
+Como usuario quiero poder guardar los datos en la base de datos
+
+
+## (REVERSO)
+
+* Deseo poder guardar la base de datos modificada , sobrescribiendo la anteriormente guardada.
+
+* Deseo poder crear una nueva base de datos con los datos que haya modificado o almacenado.

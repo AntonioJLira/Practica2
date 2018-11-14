@@ -1,0 +1,29 @@
+## Guardar
+
+**ID**:008
+
+**Breve descripción:** El sistema permitirá guardar los campos modificados o creados
+
+**Actores principales:** Usuario
+
+**Actores secundarios:** Sistema
+
+**Precondiciones:**
+
+1. Haber modificado o creado algún campo dentro de la base de datos
+
+**Flujo Principal:**
+
+1. El caso de uso empieza cuando se inicie el sistema
+2. El usuario deseara guardar la información
+
+**Postcondiciones:**
+
+* El archivo habrá sido sobrescrito o creado
+
+
+**Flujos alternativos:**
+
+2.a En caso de elegir crear la base de datos deberá, se creara un nuevo archivo
+
+2.b En caso de elegir sobrescribir un archivo , se tendrá que seleccionar el archivo
