@@ -52,11 +52,12 @@ comportamiento del mismo en determinadas situaciones.`
 
 ` El usuario tiene que poder buscar cualquier alumno que desee dentro de la base de datos. `
 
-* Para la búsqueda se usará el DNI o los apellidos (se comprobará que el alumno existe) y se transmitirá la información a las demás funciones.
+* Para la búsqueda se usará el DNI, los apellidos (se comprobará que el alumno existe) o por grupo y se transmitirá la información a las demás funciones.
+
 
 1.1 *Mostrar*
 
-`El usuario tiene poder buscar cualquier alumno que desee, todos los alumnos, o un grupo específico dentro de la base de datos.`
+`El usuario tiene que poder buscar cualquier alumno que desee, todos los alumnos, o un grupo específico dentro de la base de datos.`
 
 * Al seleccionar la opción de nombrar se debe especificar si se desea mosotrar todo o si se desea mostrar uno en específico. 
 
@@ -78,7 +79,7 @@ comportamiento del mismo en determinadas situaciones.`
 
 1.3 *Modificar*
 
-`El usuario tiene poder modificar cualquier elemento de la base de datos.`
+`El usuario tiene que poder modificar cualquier elemento de la base de datos.`
 
 * Para realizar la modificación del elemento primero quiero buscarlo y posteriormente modificarlo.
 
@@ -86,7 +87,7 @@ comportamiento del mismo en determinadas situaciones.`
 
 2 *Cargar*
 
-`El usuario tiene poder cargar una base de datos o crear una nueva.`
+`El usuario tiene que poder cargar una base de datos o crear una nueva.`
 
 * Si se desea crear una base de datos o cargar una , se me deberá preguntar al inciar el sistema software.
 
@@ -94,9 +95,16 @@ comportamiento del mismo en determinadas situaciones.`
 
 3 *Añadir*
 
-`El usuario tiene poder añadir un elemento a la base de datos.`
+`El usuario tiene que poder añadir un elemento a la base de datos.`
 
 * Se tiene que comprobar si al alumno que se quiere añadir ya pertenece a la base de datos y para ello se comprobara el DNI.
 
 * Si el elemento que se añade, pertenece a un grupo y es lider, se comprobará si dentro de ese grupo ya existe un lider.
 
+4 *Guardar*
+
+`El usuario tiene que poder guardar los datos modificados de la base de datos.`
+
+* Se tiene que sobrescribir la base de datos abierta en caso de que halla una.
+
+* Se debera crear una base de datos nueva en caso de que no haya ninguna anteriormente abierta.
